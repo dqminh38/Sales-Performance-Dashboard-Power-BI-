@@ -1,1 +1,2 @@
 # Sales-Performance-Dashboard-Power-BI-
+Developed an interactive Power BI dashboard to analyze company sales and shipment performance across regions. Leveraged Power Query and DAX to track key KPIs such as Total Revenue, AOV, and Shipment Duration, visualizing revenue trends, customer segments, and overdue shipments. The dashboard provided management with actionable insights into sales growth, customer behavior, and logistics efficiency.
